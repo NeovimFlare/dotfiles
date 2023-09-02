@@ -1,0 +1,1 @@
+pacman -Syuuu picom firefox neofetch base-devel wget sudo git github-cli xfce4 xfce4-goodies xfce4-whiskermenu-plugin nano && useradd -m james && passwd james && echo "james ALL=(ALL:ALL) ALL" >> /etc/sudoers && su james && mkdir .icons && mkdir .themes && echo "All setup!"

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=picom
+Comment=An X compositor
+Exec=picom --config picom.conf
+RunHook=0
+Hidden=true
+
